@@ -37,6 +37,10 @@
         {
             "name":"Singularity",
             "url":"https://raw.githubusercontent.com/LisonChan/emby/main/Singularity.png"
+        },
+        {
+            "name":"nebula-emby",
+            "url":"https://raw.githubusercontent.com/LisonChan/emby/main/xy.png"
         }
     ]
 }
