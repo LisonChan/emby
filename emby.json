@@ -39,6 +39,10 @@
             "url":"https://raw.githubusercontent.com/LisonChan/emby/main/Singularity.png"
         },
         {
+            "name":"BGK",
+            "url":"https://raw.githubusercontent.com/LisonChan/emby/main/bgk.png"
+        },
+        {
             "name":"nebula-emby",
             "url":"https://raw.githubusercontent.com/LisonChan/emby/main/nebula.png"
         }
